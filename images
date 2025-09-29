@@ -1,1 +1,3 @@
 images/placeholder.txt
+git add images/concept.png
+git commit -m "Add loop-transform diagram"
